@@ -33,6 +33,11 @@ The core data layout is structured to cleanly decouple customer profiles, core a
 * **Visualizations:** Matplotlib, Seaborn
 * **Model Storage:** Serialization via Pickle
 
+## Image
+<img width="1913" height="817" alt="Screenshot 2026-05-19 143219" src="https://github.com/user-attachments/assets/2f3bcf08-e8c5-4671-a70d-374f0423e5fa" />
+
+
+
 ### Repository Breakdown
 ```text
 ├── datasets/
@@ -91,5 +96,4 @@ Explainable AI (XAI): Integrate SHAP or LIME visualizations in the Streamlit fro
 
 Would you like me to help you generate the exact `.gitignore` file or format a `requiremet
 
-##<img width="1920" height="1020" alt="Screenshot 2026-05-19 145251" src="https://github.com/user-attachments/assets/93496389-bd8f-4fb3-83e1-5257dd041ec3" />
 
