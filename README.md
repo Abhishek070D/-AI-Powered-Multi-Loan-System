@@ -89,4 +89,7 @@ Explainable AI (XAI): Integrate SHAP or LIME visualizations in the Streamlit fro
 1. **Add a `.gitignore`:** Before you commit anything, add a `.gitignore` file to ensure you don't push bulky log folders, `.ipynb_checkpoints`, or system `.DS_Store` files. 
 2. **Include App Screenshots:** Take 1-2 screenshots of your Streamlit application layout (`loan_app1.py`) and paste them into the README under the "Premium Interactive Portal" section. Visuals significantly boost engagement!
 
-Would you like me to help you generate the exact `.gitignore` file or format a `requireme
+Would you like me to help you generate the exact `.gitignore` file or format a `requiremet
+
+##<img width="1920" height="1020" alt="Screenshot 2026-05-19 145251" src="https://github.com/user-attachments/assets/93496389-bd8f-4fb3-83e1-5257dd041ec3" />
+
